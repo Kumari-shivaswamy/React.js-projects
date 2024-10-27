@@ -1,6 +1,6 @@
 import React from "react"
 
-// Challenge: fix the bug, now that we've destructured the props object
+
 export default function Contact(props) {
     
     return (
@@ -19,12 +19,3 @@ export default function Contact(props) {
     )
 }
 
-// const person = {
-//     img: "./images/mr-whiskerson.png",
-//     name: "Mr. Whiskerson",
-//     phone: "(800) 555-1234",
-//     email: "mr.whiskaz@catnap.meow"
-// }
-
-// const {img, name} = person
-// console.log(name)
