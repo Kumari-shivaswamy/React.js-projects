@@ -25,7 +25,7 @@ function App() {
             <Contact 
                 img="./images/pumpkin.png"
                 name="Pumpkin"
-                phone="(0800) CAT KING"
+                phone="(0800)55-6784"
                 email="pumpkin@scrimba.com"
             />
         </div>
